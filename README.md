@@ -67,6 +67,7 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 | **Feature Engineering** | Data | Pandas, Seasonality Masks |
 | **REST API** | Backend | FastAPI, Pydantic |
 | **Containerization** | Infrastructure | Docker, Docker-Compose |
+Datasets Link : https://data-seattlecitygis.opendata.arcgis.com/datasets/2022-traffic-flow-counts/about 
 
 ## 👤 Project Leads
 
