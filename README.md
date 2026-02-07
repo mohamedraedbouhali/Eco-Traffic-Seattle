@@ -68,8 +68,8 @@ A high-performance **React** application using **Leaflet.js** to render Seattle'
 | **REST API** | Backend | FastAPI, Pydantic |
 | **Containerization** | Infrastructure | Docker, Docker-Compose |
 
-Dataset Link : https://data-seattlecitygis.opendata.arcgis.com/datasets/2022-traffic-flow-counts/about 
-
+## 👩‍💻 5. Work Architecture
+<img src="Architecture.png" /> 
 ## 👤 Project Leads
 
 <div align="center">
@@ -79,6 +79,7 @@ Dataset Link : https://data-seattlecitygis.opendata.arcgis.com/datasets/2022-tra
         <img src="raed.jpg" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #2ecc71; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Mohamed Raed Bouhali"/>
         <br />
         <h3 style="margin-top: 10px;">Mohamed Raed Bouhali</h3>
+        <p><b>Data Engineer & Backend Architect</b></p>
         <a href="https://github.com/mohamedraedbouhali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
         <a href="https://www.linkedin.com/in/bouhali-mohamed-raed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"></a>
       </td>
@@ -86,6 +87,7 @@ Dataset Link : https://data-seattlecitygis.opendata.arcgis.com/datasets/2022-tra
         <img src="ilef.jpg" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #3498db; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Ilef Ben Hassen"/>
         <br />
         <h3 style="margin-top: 10px;">Ilef Ben Hassen</h3>
+        <p><b>ML Specialist & Frontend Lead</b></p>
         <a href="https://github.com/BenHassenIlef"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
         <a href="https://www.linkedin.com/in/ben-hassen-ilef-924859304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"></a>
       </td>
@@ -94,3 +96,10 @@ Dataset Link : https://data-seattlecitygis.opendata.arcgis.com/datasets/2022-tra
 </div>
 
 <br />
+
+
+---
+---
+
+---
+
