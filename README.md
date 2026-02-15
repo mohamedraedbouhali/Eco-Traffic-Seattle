@@ -77,25 +77,29 @@ The project follows a modular pipeline:
 
 ---
 
-## 👤 Project Leads
+👤 Project Leads
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #2ecc71;" alt="Project Lead 1"/>
+        <img src="raed.jpg" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #2ecc71; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Mohamed Raed Bouhali"/>
         <br />
-        <h3 style="margin-top: 10px;">[Your Name]</h3>
-        <p><b>Lead Data Engineer</b></p>
-        <a href="YOUR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
+        <h3 style="margin-top: 10px;">Mohamed Raed Bouhali</h3>
+        <p><b>Data Engineer & Backend Architect</b></p>
+        <a href="https://github.com/mohamedraedbouhali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
+        <a href="https://www.linkedin.com/in/bouhali-mohamed-raed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"></a>
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://via.placeholder.com/180" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #3498db;" alt="Project Lead 2"/>
+        <img src="ilef.jpg" width="180" height="180" style="border-radius:50%; object-fit: cover; border: 4px solid #3498db; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" alt="Ilef Ben Hassen"/>
         <br />
-        <h3 style="margin-top: 10px;">[Collaborator Name]</h3>
-        <p><b>AI Specialist</b></p>
-        <a href="COLLABORATOR_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
+        <h3 style="margin-top: 10px;">Ilef Ben Hassen</h3>
+        <p><b>ML Specialist & Frontend Lead</b></p>
+        <a href="https://github.com/BenHassenIlef"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
+        <a href="https://www.linkedin.com/in/ben-hassen-ilef-924859304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="22"></a>
       </td>
     </tr>
   </table>
 </div>
+
+<br />
